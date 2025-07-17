@@ -104,6 +104,11 @@ The application will be available at `http://127.0.0.1:8000`.
 
 <img width="1070" height="704" alt="image" src="https://github.com/user-attachments/assets/4b091283-20ea-4dd9-9e35-004d2e8b3b6c" />
 
+## Database diagram:
+
+<img width="447" height="874" alt="image" src="https://github.com/user-attachments/assets/4b93e86d-895b-44cf-9dfc-eb93e68230a0" />
+
+
 ## User flow sequence diagram:
 
 <img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/42c6376b-fe13-4d4a-9cb0-14ded7820a3f" />
