@@ -92,11 +92,19 @@ The application will be available at `http://127.0.0.1:8000`.
 -   `schemas.py`: Defines the Pydantic models for data validation and serialization.
 -   `requirements.txt`: A file listing the Python packages required to run the project.
 
-## To-Do / Improvements
+## System Architecture:
 
--   [x] Add `requirements.txt`.
--   [ ] Implement more robust error handling.
--   [ ] Add unit and integration tests.
--   [ ] Use a more sophisticated trending algorithm.
--   [ ] Implement user roles and permissions.
--   [ ] Add a frontend to interact with the API.
+<img width="1627" height="841" alt="image" src="https://github.com/user-attachments/assets/12252c42-abab-4a78-b6c8-dd975bf5364c" />
+
+- backend components:
+<img width="881" height="543" alt="image" src="https://github.com/user-attachments/assets/fc14ed1a-01a1-49c6-bc89-74b744bcebf3" />
+
+
+## API data flow representation:
+
+<img width="1070" height="704" alt="image" src="https://github.com/user-attachments/assets/4b091283-20ea-4dd9-9e35-004d2e8b3b6c" />
+
+## User flow sequence diagram:
+
+<img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/42c6376b-fe13-4d4a-9cb0-14ded7820a3f" />
+
