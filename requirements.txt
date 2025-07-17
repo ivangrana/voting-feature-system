@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+slowapi
+asyncpg
+alembic
