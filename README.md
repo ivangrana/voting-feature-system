@@ -11,6 +11,15 @@ This is a FastAPI-based application that allows users to propose features and vo
 -   **Trending Features:** View a list of trending features based on a simple algorithm.
 -   **Rate Limiting:** Basic protection against brute-force attacks.
 
+## Interface implemented:
+
+<img width="390" height="829" alt="image" src="https://github.com/user-attachments/assets/3a169fbe-c8c0-4b04-85a5-dc70e0ec72c8" />
+
+## Post feature screen:
+
+<img width="1125" height="2436" alt="Captura de tela 2025-07-17 - 15 21 41" src="https://github.com/user-attachments/assets/b56a6a0f-23d1-49d7-9201-71781b738ab8" />
+
+
 ## API Endpoints
 
 ### Authentication
